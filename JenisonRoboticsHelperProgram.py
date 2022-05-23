@@ -274,5 +274,5 @@ async def help(ctx): ### Help
     helpEmbed.set_footer(text="Version 3")
     await ctx.send(embed = helpEmbed) #Change
 
-bot.run("NjA3NjQzMDg4MjMxNDY0OTgw.XUcluQ.wEaywqtqPUZrQ42Ug1KfWxACo9c") #Do not share with anyone else!
+bot.run("") #Do not share with anyone else!
  
